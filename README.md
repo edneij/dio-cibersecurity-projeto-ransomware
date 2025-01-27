@@ -1,5 +1,3 @@
-decrypter.py
-
 import os
 import pyaes
 
